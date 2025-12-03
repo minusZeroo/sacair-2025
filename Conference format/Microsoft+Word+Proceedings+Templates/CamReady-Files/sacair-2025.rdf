@@ -1,0 +1,1005 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Document rdf:about="https://www.who.int/news-room/fact-sheets/detail/cholera">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>WHO</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_518"/>
+        <dc:title>Cholera</dc:title>
+        <dcterms:abstract>Cholera is an extremely virulent disease. It affects both children and adults and can kill within hours if left untreated. Severe cases need rapid treatment with intravenous fluids and antibiotics.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.who.int/news-room/fact-sheets/detail/cholera</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-21 21:53:19</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_518">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.who.int/news-room/fact-sheets/detail/cholera</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-21 21:53:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003832">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1935-2735"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ali</foaf:surname>
+                        <foaf:givenName>Mohammad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nelson</foaf:surname>
+                        <foaf:givenName>Allyson R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lopez</foaf:surname>
+                        <foaf:givenName>Anna Lena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sack</foaf:surname>
+                        <foaf:givenName>David A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_519"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cholera</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Cholera vaccines</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Epidemiology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Haiti</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>India</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Indonesia</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Medical risk factors</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Sanitation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Updated Global Burden of Cholera in Endemic Countries</dc:title>
+        <dcterms:abstract>Background The global burden of cholera is largely unknown because the majority of cases are not reported. The low reporting can be attributed to limited capacity of epidemiological surveillance and laboratories, as well as social, political, and economic disincentives for reporting. We previously estimated 2.8 million cases and 91,000 deaths annually due to cholera in 51 endemic countries. A major limitation in our previous estimate was that the endemic and non-endemic countries were defined based on the countries’ reported cholera cases. We overcame the limitation with the use of a spatial modelling technique in defining endemic countries, and accordingly updated the estimates of the global burden of cholera. Methods/Principal Findings Countries were classified as cholera endemic, cholera non-endemic, or cholera-free based on whether a spatial regression model predicted an incidence rate over a certain threshold in at least three of five years (2008-2012). The at-risk populations were calculated for each country based on the percent of the country without sustainable access to improved sanitation facilities. Incidence rates from population-based published studies were used to calculate the estimated annual number of cases in endemic countries. The number of annual cholera deaths was calculated using inverse variance-weighted average case-fatality rate (CFRs) from literature-based CFR estimates. We found that approximately 1.3 billion people are at risk for cholera in endemic countries. An estimated 2.86 million cholera cases (uncertainty range: 1.3m-4.0m) occur annually in endemic countries. Among these cases, there are an estimated 95,000 deaths (uncertainty range: 21,000-143,000). Conclusion/Significance The global burden of cholera remains high. Sub-Saharan Africa accounts for the majority of this burden. Our findings can inform programmatic decision-making for cholera control.</dcterms:abstract>
+        <dc:date>Jun 4, 2015</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>PLoS Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003832</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-21 21:52:11</dcterms:dateSubmitted>
+        <dc:description>Publisher: Public Library of Science</dc:description>
+        <bib:pages>e0003832</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1935-2735">
+        <prism:volume>9</prism:volume>
+        <dc:title>PLOS Neglected Tropical Diseases</dc:title>
+        <dc:identifier>DOI 10.1371/journal.pntd.0003832</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>PLOS Neglected Tropical Diseases</dcterms:alternative>
+        <dc:identifier>ISSN 1935-2735</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_519">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0003832&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-07-21 21:52:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.futureengineeringjournal.com/search?q=FEI-2025-3-003&amp;search=search">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:30491215"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olayinka</foaf:surname>
+                        <foaf:givenName>Hanafi Musa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_718"/>
+        <dc:title>Developing Explainable Machine Learning Models for Early Diagnosis, Prognosis, and Personalized Treatment Planning in Complex Chronic Diseases: A Comprehensive Study on Data Integration, Ethical Challenges, and Clinical Deployment</dc:title>
+        <dcterms:abstract>Chronic diseases are a major global health challenge, characterized by their long term nature and complexity in diagnosis, prognosis, and treatment. Machine learning (ML) has emerged as a transformative tool in healthcare, offering significant advancements in early diagnosis, risk prediction, and personalized treatment planning. However, the application of ML models in healthcare is often hindered by their &quot;black box&quot; nature, raising concerns about their interpretability and trustworthiness in clinical settings. This review explores the integration of explainable artificial intelligence (XAI) techniques into chronic disease management, highlighting the importance of developing models that are both accurate and understandable. It discusses the challenges related to data integration from various sources, such as electronic health records (EHRs), genomics, and wearables, and examines the ethical, legal, and social implications of deploying AI in healthcare. Furthermore, the review investigates barriers to clinical adoption, including regulatory hurdles, clinician training, and workflow integration. Ultimately, the paper underscores the need for multidisciplinary collaboration and responsible innovation in order to ensure that AI models are ethically sound, clinically validated, and capable of improving patient outcomes in chronic disease care.</dcterms:abstract>
+        <dc:date>2025</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Developing Explainable Machine Learning Models for Early Diagnosis, Prognosis, and Personalized Treatment Planning in Complex Chronic Diseases</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.futureengineeringjournal.com/search?q=FEI-2025-3-003&amp;search=search</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:06:11</dcterms:dateSubmitted>
+        <bib:pages>113-120</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:30491215">
+        <prism:volume>2</prism:volume>
+        <dc:title>International Journal of Future Engineering Innovations</dc:title>
+        <dc:identifier>DOI 10.54660/IJFEI.2025.2.3.113-120</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>IJFEI</dcterms:alternative>
+        <dc:identifier>ISSN 30491215</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_718">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Musa-Hanafi-3/publication/392065456_Developing_Explainable_Machine_Learning_Models_for_Early_Diagnosis_Prognosis_and_Personalized_Treatment_Planning_in_Complex_Chronic_Diseases_A_Comprehensive_Study_on_Data_Integration_Ethical_Challenge/links/6831f6ccd1054b0207f26322/Developing-Explainable-Machine-Learning-Models-for-Early-Diagnosis-Prognosis-and-Personalized-Treatment-Planning-in-Complex-Chronic-Diseases-A-Comprehensive-Study-on-Data-Integration-Ethical-Challe.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:06:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2401.03428">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheng</foaf:surname>
+                        <foaf:givenName>Yuheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Ceyao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Zhengwen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meng</foaf:surname>
+                        <foaf:givenName>Xiangrui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hong</foaf:surname>
+                        <foaf:givenName>Sirui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Wenhao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Zihao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Zekai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yin</foaf:surname>
+                        <foaf:givenName>Feng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Junhua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>He</foaf:surname>
+                        <foaf:givenName>Xiuqiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_721"/>
+        <link:link rdf:resource="#item_722"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Multiagent Systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects</dc:title>
+        <dcterms:abstract>Intelligent agents stand out as a potential path toward artificial general intelligence (AGI). Thus, researchers have dedicated significant effort to diverse implementations for them. Benefiting from recent progress in large language models (LLMs), LLM-based agents that use universal natural language as an interface exhibit robust generalization capabilities across various applications -- from serving as autonomous general-purpose task assistants to applications in coding, social, and economic domains, LLM-based agents offer extensive exploration opportunities. This paper surveys current research to provide an in-depth overview of LLM-based intelligent agents within single-agent and multi-agent systems. It covers their definitions, research frameworks, and foundational components such as their composition, cognitive and planning methods, tool utilization, and responses to environmental feedback. We also delve into the mechanisms of deploying LLM-based agents in multi-agent systems, including multi-role collaboration, message passing, and strategies to alleviate communication issues between agents. The discussions also shed light on popular datasets and application scenarios. We conclude by envisioning prospects for LLM-based agents, considering the evolving landscape of AI and natural language processing.</dcterms:abstract>
+        <dc:date>2024-01-07</dc:date>
+        <z:shortTitle>Exploring Large Language Model based Intelligent Agents</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2401.03428</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:08:23</dcterms:dateSubmitted>
+        <dc:description>arXiv:2401.03428 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2401.03428</dc:identifier>
+        <prism:number>arXiv:2401.03428</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_721">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2401.03428v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:08:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_722">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2401.03428</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:08:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.mdpi.com/2414-6366/9/9/216">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_724"/>
+        <dc:title>Enhancing the Interpretability of Malaria and Typhoid Diagnosis with Explainable AI and Large Language Models</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2414-6366/9/9/216</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:10:28</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_724">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Enhancing the Interpretability of Malaria and Typhoid Diagnosis with Explainable AI and Large Language Models</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2414-6366/9/9/216</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:10:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2504-2289/8/11/148">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2504-2289"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mulwa</foaf:surname>
+                        <foaf:givenName>Damaris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kazuzuru</foaf:surname>
+                        <foaf:givenName>Benedicto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Misinzo</foaf:surname>
+                        <foaf:givenName>Gerald</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bett</foaf:surname>
+                        <foaf:givenName>Benard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_726"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>accuracy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>AUC/ROC curves</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>geo-climatic variables</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>machine learning models</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>XGBoost</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>An XGBoost Approach to Predictive Modelling of Rift Valley Fever Outbreaks in Kenya Using Climatic Factors</dc:title>
+        <dcterms:abstract>Reports of Rift Valley fever (RVF), a highly climate-sensitive zoonotic disease, have been rather frequent in Kenya. Although multiple empirical analyses have shown that machine learning methods outperform time series models in forecasting time series data, there is limited evidence of their application in predicting disease outbreaks in Africa. In recent times, the literature has reported several applications of machine learning in facilitating intelligent decision-making within the healthcare sector and public health. However, there is a scarcity of information regarding the utilization of the XGBoost model for predicting disease outbreaks. Within the provinces of Kenya, the incidence of Rift Valley fever was more prominent in the Rift Valley (26.80%) and Eastern (20.60%) regions. This study investigated the correlation between the occurrence of RVF (rapid vegetation failure) and several climatic variables, including humidity, clay content, elevation, slope, and rainfall. The correlation matrix revealed a modest linear dependence between different climatic variables and RVF cases, with the highest correlation, a mere 0.02903, observed for rainfall. The XGBoost model was trained using these climate variables and achieved outstanding performance measures including an AUC of 0.8908, accuracy of 99.74%, precision of 99.75%, and recall of 99.99%. The analysis of feature importance revealed that rainfall was the most significant predictor. These findings align with previous studies demonstrating the significance of weather conditions in RVF outbreaks. The study’s results indicate that incorporating advanced machine learning models that consider several climatic variables can significantly enhance the prediction and management of RVF incidence.</dcterms:abstract>
+        <dc:date>2024/11</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.mdpi.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2504-2289/8/11/148</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:12:05</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+        <dc:description>Number: 11
+Publisher: Multidisciplinary Digital Publishing Institute</dc:description>
+        <bib:pages>148</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2504-2289">
+        <prism:volume>8</prism:volume>
+        <dc:title>Big Data and Cognitive Computing</dc:title>
+        <dc:identifier>DOI 10.3390/bdcc8110148</dc:identifier>
+        <prism:number>11</prism:number>
+        <dc:identifier>ISSN 2504-2289</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_726">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/2504-2289/8/11/148/pdf?version=1730273295</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:12:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1186/s12879-021-06856-4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1471-2334"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Charnley</foaf:surname>
+                        <foaf:givenName>Gina E. C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kelman</foaf:surname>
+                        <foaf:givenName>Ilan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Green</foaf:surname>
+                        <foaf:givenName>Nathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hinsley</foaf:surname>
+                        <foaf:givenName>Wes</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaythorpe</foaf:surname>
+                        <foaf:givenName>Katy A. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Murray</foaf:surname>
+                        <foaf:givenName>Kris A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_728"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cholera</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Epidemiology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Africa</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Climate change</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Development Studies</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Diarrhoea</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Disease outbreaks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Drought</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Droughts</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Environmental Sciences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Environmental Social Sciences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Environmental Studies</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Public health</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Vibrio cholerae</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Exploring relationships between drought and epidemic cholera in Africa using generalised linear models</dc:title>
+        <dcterms:abstract>Temperature and precipitation are known to affect Vibrio cholerae outbreaks. Despite this, the impact of drought on outbreaks has been largely understudied. Africa is both drought and cholera prone and more research is needed in Africa to understand cholera dynamics in relation to drought.</dcterms:abstract>
+        <dc:date>2021-11-22</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1186/s12879-021-06856-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:13:02</dcterms:dateSubmitted>
+        <bib:pages>1177</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1471-2334">
+        <prism:volume>21</prism:volume>
+        <dc:title>BMC Infectious Diseases</dc:title>
+        <dc:identifier>DOI 10.1186/s12879-021-06856-4</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>BMC Infect Dis</dcterms:alternative>
+        <dc:identifier>ISSN 1471-2334</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_728">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1186%2Fs12879-021-06856-4.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:13:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://westerneuropeanstudies.com/index.php/1/article/view/5">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2942-1896"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Onyijen</foaf:surname>
+                        <foaf:givenName>O. H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olaitan</foaf:surname>
+                        <foaf:givenName>E. O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olayinka</foaf:surname>
+                        <foaf:givenName>T. C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oyelola</foaf:surname>
+                        <foaf:givenName>S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_730"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>algorithm</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>cholera</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>dataset</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>DATA-DRIVEN MACHINE LEARNING TECHNIQUES FOR THE PREDICTION OF CHOLERA OUTBREAK IN WEST AFRICA</dc:title>
+        <dcterms:abstract>The cholera epidemic remains a public threat throughout history, affecting vulnerable populations living with unreliable water and substandard sanitary conditions. Various studies have observed that the occurrence of cholera has a strong linkage with environmental factors such as climate change and geographical location. Poor Hygiene has been strongly linked to the seasonal occurrence and widespread of cholera through the creation of weather patterns that favour the disease’s transmission, infection, and the growth of Vibrio cholerae, which cause the disease. Over the past decades, there have been great achievements in developing epidemic models for the proper prediction of cholera. However, machine learning techniques have not been explicitly deployed in modelling cholera epidemics due to the challenges that come with its datasets, such as imbalanced data and missing information. This paper explores the use of machine learning algorithms such as decision tree, random forest, and logistics regression to evaluate the prevalence of cholera epidemics in West African countries while overcoming the data imbalance problem. In addition, mean square error, mean absolute error, F1 score, precision and balanced accuracy metrics were used to evaluate the performance of the three (3) models. The results show that logistic regression has an accuracy of 0.47%, random forest 0.978% and the most efficient model was the decision tree 0.998% with a mean squared error and mean absolute error of 0.001% respectively shows that the model will accurately predict cholera outbreak in Africa. Overall results will improve the understanding of the significant roles of machine learning techniques in healthcare data. The study recommends a review of healthcare systems to facilitate quality data collection and deployment of machine learning techniques.</dcterms:abstract>
+        <dc:date>2023-09-08</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>westerneuropeanstudies.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://westerneuropeanstudies.com/index.php/1/article/view/5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:14:30</dcterms:dateSubmitted>
+        <dc:rights>Copyright (c) 2023 Western European Journal of Modern Experiments and Scientific Methods</dc:rights>
+        <dc:description>Number: 1</dc:description>
+        <bib:pages>33-51</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2942-1896">
+        <prism:volume>1</prism:volume>
+        <dc:title>Western European Journal of Modern Experiments and Scientific Methods</dc:title>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 2942-1896</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_730">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://westerneuropeanstudies.com/index.php/1/article/download/5/4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:14:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s12559-023-10179-8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1866-9964"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hassija</foaf:surname>
+                        <foaf:givenName>Vikas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chamola</foaf:surname>
+                        <foaf:givenName>Vinay</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mahapatra</foaf:surname>
+                        <foaf:givenName>Atmesh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singal</foaf:surname>
+                        <foaf:givenName>Abhinandan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goel</foaf:surname>
+                        <foaf:givenName>Divyansh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Kaizhu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Scardapane</foaf:surname>
+                        <foaf:givenName>Simone</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Spinelli</foaf:surname>
+                        <foaf:givenName>Indro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mahmud</foaf:surname>
+                        <foaf:givenName>Mufti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hussain</foaf:surname>
+                        <foaf:givenName>Amir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_732"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Black-box models</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computational Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Intelligence Augmentation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Interpretability</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Philosophy of Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Responsible AI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Symbolic AI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Transparency</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>XAI</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Interpreting Black-Box Models: A Review on Explainable Artificial Intelligence</dc:title>
+        <dcterms:abstract>Recent years have seen a tremendous growth in Artificial Intelligence (AI)-based methodological development in a broad range of domains. In this rapidly evolving field, large number of methods are being reported using machine learning (ML) and Deep Learning (DL) models. Majority of these models are inherently complex and lacks explanations of the decision making process causing these models to be termed as 'Black-Box'. One of the major bottlenecks to adopt such models in mission-critical application domains, such as banking, e-commerce, healthcare, and public services and safety, is the difficulty in interpreting them. Due to the rapid proleferation of these AI models, explaining their learning and decision making process are getting harder which require transparency and easy predictability. Aiming to collate the current state-of-the-art in interpreting the black-box models, this study provides a comprehensive analysis of the explainable AI (XAI) models. To reduce false negative and false positive outcomes of these back-box models, finding flaws in them is still difficult and inefficient. In this paper, the development of XAI is reviewed meticulously through careful selection and analysis of the current state-of-the-art of XAI research. It also provides a comprehensive and in-depth evaluation of the XAI frameworks and their efficacy to serve as a starting point of XAI for applied and theoretical researchers. Towards the end, it highlights emerging and critical issues pertaining to XAI research to showcase major, model-specific trends for better explanation, enhanced transparency, and improved prediction accuracy.</dcterms:abstract>
+        <dc:date>2024-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Interpreting Black-Box Models</z:shortTitle>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s12559-023-10179-8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:16:08</dcterms:dateSubmitted>
+        <bib:pages>45-74</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1866-9964">
+        <prism:volume>16</prism:volume>
+        <dc:title>Cognitive Computation</dc:title>
+        <dc:identifier>DOI 10.1007/s12559-023-10179-8</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Cogn Comput</dcterms:alternative>
+        <dc:identifier>ISSN 1866-9964</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_732">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs12559-023-10179-8.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:16:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_733">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Explainable-AI-Interpreting-Deep-Learning-Models-for-Decision-Support.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Tanzeem-Ahmad-3/publication/389744168_Explainable_AI_Interpreting_Deep_Learning_Models_for_Decision_Support/links/67d0a04ed759700065080493/Explainable-AI-Interpreting-Deep-Learning-Models-for-Decision-Support.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:16:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://link.springer.com/article/10.1007/s40200-025-01621-9">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_735"/>
+        <dc:title>Explainable machine learning model incorporating social determinants of health to predict chronic kidney disease in type 2 diabetes patients | Journal of Diabetes &amp; Metabolic Disorders</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/article/10.1007/s40200-025-01621-9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:17:16</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_735">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Explainable machine learning model incorporating social determinants of health to predict chronic kidney disease in type 2 diabetes patients | Journal of Diabetes &amp; Metabolic Disorders</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/article/10.1007/s40200-025-01621-9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:17:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2076-3417/15/14/8103">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2076-3417"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peykani</foaf:surname>
+                        <foaf:givenName>Pejman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramezanlou</foaf:surname>
+                        <foaf:givenName>Fatemeh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tanasescu</foaf:surname>
+                        <foaf:givenName>Cristina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ghanidel</foaf:surname>
+                        <foaf:givenName>Sanly</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_736"/>
+        <dc:title>Large Language Models: A Structured Taxonomy and Review of Challenges, Limitations, Solutions, and Future Directions</dc:title>
+        <dcterms:abstract>Large language models (LLMs), as one of the most advanced achievements in the field of natural language processing (NLP), have made significant progress in areas such as natural language understanding and generation. However, attempts to achieve the widespread use of these models have met numerous challenges, encompassing technical, social, ethical, and legal aspects. This paper provides a comprehensive review of the various challenges associated with LLMs and analyzes the key issues related to these technologies. Among the challenges discussed are model interpretability, biases in data and model outcomes, ethical concerns regarding privacy and data security, and their high computational requirements. Furthermore, the paper examines how these challenges impact the applications of LLMs in fields such as healthcare, law, media, and education, emphasizing the importance of addressing these issues in the development and deployment of these models. Additionally, solutions for improving the robustness and control of models against biases and quality issues are proposed. Finally, the paper looks at the future of LLM research and the challenges that need to be addressed for the responsible and effective use of this technology. The goal of this paper is to provide a comprehensive analysis of the challenges and issues surrounding LLMs in order to enable the optimal and ethical use of these technologies in real-world applications.</dcterms:abstract>
+        <dc:date>2025-07-21</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Large Language Models</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2076-3417/15/14/8103</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:21:37</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>8103</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2076-3417">
+        <prism:volume>15</prism:volume>
+        <dc:title>Applied Sciences</dc:title>
+        <dc:identifier>DOI 10.3390/app15148103</dc:identifier>
+        <prism:number>14</prism:number>
+        <dcterms:alternative>Applied Sciences</dcterms:alternative>
+        <dc:identifier>ISSN 2076-3417</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_736">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Pejman-Peykani/publication/393798537_Large_Language_Models_A_Structured_Taxonomy_and_Review_of_Challenges_Limitations_Solutions_and_Future_Directions/links/68806e19ba8eac4f17285c1b/Large-Language-Models-A-Structured-Taxonomy-and-Review-of-Challenges-Limitations-Solutions-and-Future-Directions.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:21:33</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.mdpi.com/2076-3417/15/15/8412">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_739"/>
+        <dc:title>Privacy-Preserving Clinical Decision Support for Emergency Triage Using LLMs: System Architecture and Real-World Evaluation</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2076-3417/15/15/8412</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:23:01</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_739">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Privacy-Preserving Clinical Decision Support for Emergency Triage Using LLMs: System Architecture and Real-World Evaluation</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2076-3417/15/15/8412</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-02 16:23:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-3-031-96231-8">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-3-031-96231-8</dc:identifier>
+                <dc:title>Artificial Intelligence Applications and Innovations</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-031-96231-8_17</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer Nature Switzerland</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jideani</foaf:surname>
+                        <foaf:givenName>Paul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gerber</foaf:surname>
+                        <foaf:givenName>Aurona</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maglogiannis</foaf:surname>
+                        <foaf:givenName>Ilias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iliadis</foaf:surname>
+                        <foaf:givenName>Lazaros</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andreou</foaf:surname>
+                        <foaf:givenName>Andreas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Papaleonidas</foaf:surname>
+                        <foaf:givenName>Antonios</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>emotion classification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>genetic algorithm</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>metaheuristic</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>NLP</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Metaheuristics-Based Long Short-Term Memory Optimization for Emotion Classification</dc:title>
+        <dcterms:abstract>Emotion classification of social media text, particularly from X (formerly Twitter), presents unique challenges due to its short, informal, and noisy nature. Traditional machine learning and deep learning models often struggle to achieve high accuracy on such data due to high variability, misspellings, and contextual ambiguity. This study aimed to enhance the performance of Long Short-Term Memory (LSTM) models for emotion classification by optimizing hyperparameters using metaheuristic algorithms. The Genetic Algorithm (GA), Particle Swarm Optimization (PSO), and Firefly Algorithm were leveraged to maximize the F-score and accuracy, critical metrics for classification tasks. Utilizing a dataset of 23,000 tweets related to a cholera outbreak, LSTM models were trained and optimized to surpass previous accuracy levels. Through experimentation, the Firefly Algorithm-optimized LSTM model emerged as the best-performing approach, achieving 98% accuracy, compared to the baseline LSTM model at 76%, GA-optimized LSTM at 89%, and PSO-optimized LSTM at 90%. The Distributed Evolutionary Algorithm (DEAP) framework was employed to implement the evolutionary algorithms, ensuring flexibility and scalability. This study demonstrates that metaheuristic optimization significantly improves LSTM performance for emotion classification, addressing the unique challenges posed by noisy social media text.</dcterms:abstract>
+        <dc:date>2025</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <bib:pages>225-239</bib:pages>
+    </rdf:Description>
+</rdf:RDF>
